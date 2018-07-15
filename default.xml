@@ -5,11 +5,11 @@
   <remove-project name="Halium/hybris-boot" />
   <remove-project name="Halium/halium-boot" />
 
-  <remote  name="webos-ports"
-           fetch="git://github.com/webOS-ports/"
+  <remote  name="corpuscle"
+           fetch="git://github.com/corpuscle/"
            revision="halium-7.1"/>
 
   <!-- luneos/luneos-hal: contain patches to apply before starting the build. -->
-  <project path="luneos/luneos-hal" name="android_luneos_hal" remote="webos-ports"/>
+  <project path="luneos/luneos-hal" name="android_luneos_hal" remote="corpuscle"/>
    
 </manifest>
