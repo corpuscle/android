@@ -249,5 +249,5 @@
   <project path="halium/hybris-boot" name="Halium/hybris-boot" remote="hal" revision="refs/heads/master" />
   <project path="halium/audioflingerglue" name="Halium/audioflingerglue" remote="hal" />
   <project path="halium/halium-boot" name="Halium/halium-boot" remote="hal" revision="master" />
-  <project path="halium/devices" name="Herrie82/halium-devices" remote="hal" />
+  <project path="halium/devices" name="corpuscle/halium-devices" remote="hal" />
 </manifest>
