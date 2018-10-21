@@ -215,7 +215,7 @@
 
     <project path="vendor/cm" name="ubports/android_vendor_cm" remote="ubp" />
 
-    <project path="halium/devices" name="Halium/halium-devices" remote="halium" />
+    <project path="halium/devices" name="corpuscle/halium-devices" remote="halium" />
     <project path="halium/hybris-boot" name="Halium/hybris-boot" revision="refs/heads/master" remote="halium" />
     <project path="halium/halium-boot" name="Halium/halium-boot" revision="refs/heads/master" remote="halium" />
     <project path="halium/libhybris" name="Halium/libhybris" revision="refs/heads/master" remote="halium" />
